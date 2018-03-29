@@ -21,7 +21,7 @@ clever deploy
 clever open
 ````
 
-Vous avez déployer votre application, félicitations 👏 ! Et n'oubliez pas de modifier le fichier `index.js`. 
+Vous avez déployé votre application, félicitations 👏 ! Et n'oubliez pas de modifier le fichier `index.js`. 
 
 ## Utiliser la Console Clever Cloud
 
